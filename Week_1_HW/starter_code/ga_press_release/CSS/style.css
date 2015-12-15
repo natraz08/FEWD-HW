@@ -6,3 +6,7 @@ p {font-size: 16px;
 
 li {font-weight:bold;
 }
+
+img {
+  width: 50%;
+}
